@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059811188177",
+    "project_id": "fashion-home-55d46",
+    "storage_bucket": "fashion-home-55d46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059811188177:android:7f75a8bd97df1bbd8594f0",
+        "android_client_info": {
+          "package_name": "com.example.fashionhome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaEjb_NPmdRpDmuX9GVJV9WT8mTW1aD1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
